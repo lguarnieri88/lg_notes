@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I’m Leandro, a mathematician, father, Data Scientist, amateur cook and compulsive reader among other things. I’m from Argentina but have been living in Mexico the last few years. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+After a very short academic career I started working in Data Science and haven’t looked back since. Today I enjoy using math as a way to solve real world problems and as a source of ideas.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This site is the place where I drop my personal notes on the things I find  interesting. Expect notes about books, math, leading teams, parenting, cooking and creativity in general. Notes are in a perennial state of work in progress and change over time.
 
-
-[jekyll-organization]: https://github.com/jekyll
+If you find anything of interest or want to comment on anything, feel free to reach out.
